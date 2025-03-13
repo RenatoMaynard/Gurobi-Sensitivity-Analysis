@@ -10,7 +10,7 @@ This repository demonstrates how to perform **Sensitivity Analysis** in Gurobi f
 
 ## 📊 Features
 
-- **General framework** for performing Sensitivity Analysis on any LP/MIP model.
+- **General framework** for performing Sensitivity Analysis on any LP model.
 - Prints **allowable increases and decreases** for:
   - Objective function coefficients.
   - RHS of constraints.
